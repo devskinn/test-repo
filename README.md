@@ -1,2 +1,2 @@
 # test-repo
-Repository for learning and testing Git and GitHub
+Repository for learning and testing Git and GitHub.
